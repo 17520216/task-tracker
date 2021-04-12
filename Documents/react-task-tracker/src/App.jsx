@@ -104,7 +104,6 @@ const App = () => {
         <Route path="/about" component={About} />
         <Footer />
       </div>
-      f
     </Router>
   );
 };
